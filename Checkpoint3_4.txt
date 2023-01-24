@@ -1,0 +1,9 @@
+Which git command would you user to:
+
+1. View the history of the repository
+2. If there are  outstanding commits to do
+3. Start a new repository
+
+1 = git log
+2 = git status
+3 = git init
